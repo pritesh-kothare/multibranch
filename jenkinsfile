@@ -5,7 +5,8 @@ pipeline {
 
             steps {
 
-                echo "this is my branch 1"
+                echo "this is my branch 2"
+		echo "this wahid class for devops"
             }
         }
     }
