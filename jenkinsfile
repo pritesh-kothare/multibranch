@@ -1,0 +1,12 @@
+pipeline {
+    agent any 
+    stages {
+        stage ('repo_git') {
+
+            steps {
+
+                echo "this is my branch 1"
+            }
+        }
+    }
+}
