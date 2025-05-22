@@ -5,7 +5,7 @@ pipeline {
 
             steps {
 
-                echo "this is my branchxxx 1"
+                echo "this is my branchcc 1"
 		echo "Think leran invent"
             }
         }
